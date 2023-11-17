@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 <h1 align="center">I'm Aina 👋</h1>
-<h3 align="center">A passionate Full-Stack developer and Python enthusiast from Malaysia</h3>
+<h3 align="center">A Python enthusiast and aspiring Front-end developer from Malaysia</h3>
 
 
 
