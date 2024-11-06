@@ -5,8 +5,8 @@
 </div>
 
 ### :woman_technologist: About Me :
-I am a Python enthusiast and aspiring Full Stack Developer from Malaysia.
-- :zap: I’m a freelancer focusing on creating automation tools for clients.
+I am a Python Developer and aspiring Full Stack Developer from Malaysia.
+- :zap: I’m a [freelancer](https://www.upwork.com/fl/~01f3131b3d9ecdb854?mp_source=share) focusing on creating automation tools for clients
 - :telescope: Contributing to frontend and backend for building web applications.
 - :seedling: Exploring Technical Content Writing and learning JavaScript
 - :mailbox: How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-noraina-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/noraina-nordin/)
