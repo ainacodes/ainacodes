@@ -11,6 +11,9 @@ I am a Python Developer and aspiring Full Stack Developer from Malaysia.
 - :seedling: Exploring Technical Content Writing and learning JavaScript
 - :mailbox: How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-noraina-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/noraina-nordin/)
 
+### 📖My blogpost and Web Scraping tutorial
+- [Medium](https://medium.com/@aina.learns22)
+- [Rayobyte Community](https://rayobyte.com/community/members/ainacodes/scraping_project/)
 
 ### :fire: My Stats :
 [![GitHub Streak](https://streak-stats.demolab.com?user=ainacodes&theme=nightowl&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
