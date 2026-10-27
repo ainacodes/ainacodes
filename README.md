@@ -11,6 +11,7 @@ I am a Python Developer and Technical Content Developer from Malaysia.
 - :mailbox: How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-noraina-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/noraina-nordin/)
 
 ### 📖My blogpost and Web Scraping tutorial
+- [SerpApi tutorial](https://serpapi.com/blog/author/noraina/)
 - [Medium](https://medium.com/@aina.learns22)
 - [Rayobyte Community](https://rayobyte.com/community/members/ainacodes/scraping_project/)
 
